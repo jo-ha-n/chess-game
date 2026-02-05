@@ -27,7 +27,7 @@ public class CreditsPanel extends JPanel {
         this.setBorder(new EmptyBorder(25, 25, 25, 25));
 
         this.names[0] = "Johanes";
-        this.names[1] = "KateF.";
+        this.names[1] = "Kate";
         this.names[2] = "Lawrence";
         this.names[3] = "Chlarenz";
 
