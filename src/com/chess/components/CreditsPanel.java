@@ -26,10 +26,10 @@ public class CreditsPanel extends JPanel {
         this.fontHandler = new FontHandler();
         this.setBorder(new EmptyBorder(25, 25, 25, 25));
 
-        this.names[0] = "Leyran, Johanes Lawrence Scott II S.";
-        this.names[1] = "Baldonado, Kate Ashly F.";
-        this.names[2] = "Mojica, John Lawrence V.";
-        this.names[3] = "Togueno, Chlarenz P.";
+        this.names[0] = "Johanes";
+        this.names[1] = "KateF.";
+        this.names[2] = "Lawrence";
+        this.names[3] = "Chlarenz";
 
         this.setLayout(new BorderLayout());
         this.setBackground(new Color(45, 45, 45));
